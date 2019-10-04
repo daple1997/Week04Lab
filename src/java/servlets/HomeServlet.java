@@ -9,6 +9,6 @@ package servlets;
  *
  * @author 791105
  */
-public class servletTwo {
+public class HomeServlet {
     
 }
